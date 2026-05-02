@@ -206,34 +206,34 @@ Federated learning architecture where clients train locally and share model upda
 ## Figures
 
 ### Utility Drop (Privacy Enabled)
-![Utility Drop (Privacy Enabled)](results/figures/Utility Drop (Privacy Enabled).png)
+![utility_drop_privacy_enabled](results/figures/utility_drop_privacy_enabled.png)
 
 ### Non-IID Penalty
-![Non-IID Penalty](results/figures/Non-IID Penalty.png)
+![non_iid_penalty](results/figures/non_iid_penalty.png)
 
 ### Adversarial Robustness
-![Adversarial Robustness](results/figures/Adversarial Robustness.png)
+![adversarial_robustnes](results/figures/adversarial_robustness.png)
 
 ### Privacy–Utility Trade-off CIC-DDoS2019
-![Privacy–Utility Trade-off CIC-DDoS2019](results/figures/Privacy–Utility Trade-off CIC-DDoS2019.png)
+![privacy_utility_cicddos2019](results/figures/privacy_utility_cicddos2019.png)
 
 ### Privacy–Utility Trade-off NSL-KDD
-![Privacy–Utility Trade-off NSL-KDD](results/figures/Privacy–Utility Trade-off NSL-KDD.png)
+![privacy_utility_nslkdd](results/figures/privacy_utility_nslkdd.png)
 
 ### Privacy–Utility Trade-off UNSW-NB15
-![Privacy–Utility Trade-off UNSW-NB15](results/figures/Privacy–Utility Trade-off UNSW-NB15.png)
+![privacy_utility_unswnb15](results/figures/privacy_utility_unswnb15.png)
 
 ### Unified Privacy–Utility Trade-off Across Datasets
-![Unified Privacy–Utility Trade-off Across Datasets](results/figures/Unified Privacy–Utility Trade-off Across Datasets.png)
+![unified_privacy_utility](results/figures/unified_privacy_utility.png)
 
 ### Cross-Dataset F1 Heatmap
-![Cross-Dataset F1 Heatmap](results/figures/Cross-Dataset F1 Heatmap.png)
+![cross_dataset_heatmap](results/figures/cross_dataset_heatmap.png)
 
 ### Cross-Dataset Model Comparison
-![Cross-Dataset Model Comparison](results/figures/Cross-Dataset Model Comparison.png)
+![cross_dataset_comparison](results/figures/cross_dataset_comparison.png)
 
 ### Baseline Comparison
-![Baseline Comparison](results/figures/Baseline Comparison.png)
+![baseline_comparison](results/figures/baseline_comparison.png)
 
 ## Dataset
 
