@@ -1,0 +1,2 @@
+Friedman_statistic,p_value,AvgRank_XGBoost,AvgRank_LightGBM,AvgRank_Centralized MLP,AvgRank_Proposed FL MLP
+8.200000000000003,0.04205418289496618,1.3333333333333333,1.6666666666666667,3.0,4.0

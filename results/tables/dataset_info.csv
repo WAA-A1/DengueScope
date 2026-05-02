@@ -1,0 +1,4 @@
+Dataset,duplicates_removed,n_train,n_val,n_test,n_features_before_selection,n_features_after_encoding,n_numeric,n_categorical,selector_used,selector_name,feature_mode,k_best,pca_components
+CIC-DDoS2019,222,34844,4978,9956,77,77,77,0,True,selectkbest_mutual_info_77,selectkbest,77,48
+NSL-KDD,5756,30970,4425,8849,119,96,38,3,True,selectkbest_mutual_info_96,selectkbest,96,48
+UNSW-NB15,19173,21578,3083,6166,182,96,31,3,True,selectkbest_mutual_info_96,selectkbest,96,48

@@ -1,0 +1,13 @@
+Dataset,Comparison,Wilcoxon_stat,p_value,Significant_at_0.05
+CIC-DDoS2019,XGBoost vs LightGBM,1.0,0.25,False
+CIC-DDoS2019,Proposed FL MLP vs XGBoost,0.0,0.0625,False
+CIC-DDoS2019,Proposed FL MLP vs LightGBM,0.0,0.0625,False
+CIC-DDoS2019,Proposed FL MLP vs Centralized MLP,0.0,0.0625,False
+NSL-KDD,XGBoost vs LightGBM,2.0,0.1875,False
+NSL-KDD,Proposed FL MLP vs XGBoost,0.0,0.0625,False
+NSL-KDD,Proposed FL MLP vs LightGBM,0.0,0.0625,False
+NSL-KDD,Proposed FL MLP vs Centralized MLP,,1.0,False
+UNSW-NB15,XGBoost vs LightGBM,7.0,1.0,False
+UNSW-NB15,Proposed FL MLP vs XGBoost,0.0,0.0625,False
+UNSW-NB15,Proposed FL MLP vs LightGBM,0.0,0.0625,False
+UNSW-NB15,Proposed FL MLP vs Centralized MLP,,1.0,False
