@@ -262,3 +262,6 @@ python src/evaluate.py
 
 Datasets are stored locally in `external_ids_datasets/`.  
 They will be loaded automatically when running the notebook.
+
+## DOI
+DOI: https://doi.org/10.5281/zenodo.19998858
