@@ -1,4 +1,4 @@
-# Privacy-Preserving Federated Learning for Collaborative Intrusion Detection (DengueScope)
+# Privacy-Preserving Federated Learning for Collaborative Intrusion Detection (privacy-preserving-federated-ids)
 
 ## Overview
 This project implements a privacy-preserving federated learning framework for collaborative intrusion detection using NSL-KDD, UNSW-NB15, and CIC-DDoS2019 datasets.
@@ -245,8 +245,8 @@ Federated learning architecture where clients train locally and share model upda
 ## Reproducibility
 
 ```bash
-git clone https://github.com/your-repo/DengueScope.git
-cd DengueScope
+git clone https://github.com/your-repo/privacy-preserving-federated-ids.git
+cd privacy-preserving-federated-ids
 pip install -r requirements.txt
 python src/train.py
 python src/evaluate.py
